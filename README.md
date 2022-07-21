@@ -13,7 +13,7 @@ While learning the C# programming language, I have produced a simple web scraper
 
 * API: the data for this app comes from a well known weather API. In this project, I learned how to fetch data from a HTPP API and interpret it within the application, before displaying it.
 
-* Postman: 
+* Postman: as this project is deeply dependant on APIs, I found it to be the perfect opportunity to learn the baisics of how to use Postman for API testing. 
 
 * Problem solving: in this project, I learned how to use the `$""` string syntax in order to create interactive and animated text in the console. Designing such a UI involved solving problems of UI navigation, how to animate certain features, and how to show users feedback to their inputs.
 
